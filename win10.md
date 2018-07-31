@@ -40,7 +40,7 @@ abra el **`Windows PowerShell (Administrator)`**.
 Ejecute el siguiente comando en el PowerShell para activar el Subsistema de Linux
 
 ```
-Enable-WindowsOptionalFeature -Online - FeatureName Microsoft-Windows-Subsystem-Linux
+Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 ```
 
 ### Paso 8
@@ -64,7 +64,7 @@ sistema.
 ### Paso 10 (Python)
 Descargue Anaconda con el siguiente comando en Bash:
 ```
-wget  https://repo.anaconda.com/archive/anaconda3-5.2.0-Linux-x86_64.sh
+wget  https://repo.anaconda.com/archive/Anaconda3-5.2.0-Linux-x86_64.sh
 ```
 
 ### Paso 11
