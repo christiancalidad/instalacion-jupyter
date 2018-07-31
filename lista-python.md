@@ -3,11 +3,24 @@
 Este documento contiene la lista de paquetes a instalar en Python. Copie y
 pegue los comandos en Terminal.
 
+
+    ##
+    ## Instala pip
+    ##
+    sudo apt-get install python-pip
+   
+    
     ##
     ## Actualiza pip
     ##
     pip install --upgrade pip
 
+
+    ##
+    ## Instala jupyter_client
+    ##
+    pip install jupyter_client
+    
     ##
     ## Interfaz con pypi
     ##
