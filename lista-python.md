@@ -22,6 +22,11 @@ pegue los comandos en Terminal.
     pip install jupyter_client
     
     ##
+    ## Instala jupyter
+    ##
+    pip install jupyter
+    
+    ##
     ## Interfaz con pypi
     ##
     pip install twine
