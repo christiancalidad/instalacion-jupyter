@@ -46,7 +46,6 @@ pegue los comandos en Terminal.
     ## Utilidad para la línea de comandos
     ##
     sudo pip install csvkit
-    pip install rpy2
     pip install PyPDF2
 
     ##
